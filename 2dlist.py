@@ -1,4 +1,4 @@
-
+# Project overview : https://www.hackerrank.com/challenges/2d-array/problem
 def hourglassSum(arr):
     # Write your code here
     sums = []

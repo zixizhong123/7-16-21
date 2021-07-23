@@ -1,3 +1,4 @@
+# problem overview : https://www.hackerrank.com/challenges/array-left-rotation/problem
 def rotateLeft(d, arr):
     # Write your code here
     result = []
